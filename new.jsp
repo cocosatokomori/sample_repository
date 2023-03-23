@@ -11,7 +11,7 @@
 <body>
     <h1>顧客管理</h1>
     <div class="main">
-        <!-- 作成者:森 編集者:中村,渡邊 -->
+        <!-- 作成者:森 -->
         <h2>新規登録</h2>
         <form name="form1" action="CustomerServlet" method="post" onsubmit="return funcConfirm()">
             <table border="1">
