@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.comment {
+	font-size: 12px;
+	color: red;
+}
+#survey {
+	width: 70%;
+	margin: 0 auto;
+}
+#survey dd {
+	margin-top: 5px;
+	margin-bottom: 15px;
+}
+#survey input[type = number] {
+	width: 4em;
+}
+#survey input[type = number]:first-child {
+	width: 3em;
+}
+#survey dl + p {
+	text-align: center;
+	padding-top: 10px;
+	border-top: 2px dotted #999999;
+}

@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #edbebf;
+}
+
+#wrapper {
+	background-color: #ffffff;
+	border: solid 5px #666666;
+	width: 1000px;
+}
+
+#header {
+	background-color: #ccdfff;
+	border: solid 5px #1e50a2;
+	height: 50px;
+}
+
+#navi {
+	background-color: #d3dbaf;
+	border: solid 5px #c7dc68;
+	height: 400px;
+	width: 200px;
+}
+
+#main_contents {
+	background-color: #a7ced1;
+	border: solid 5px #83ccd2;
+	height: 400px;
+	width: 800px;
+}
+
+#footer {
+	background-color: #d2b3ff;
+	border: solid 5px #ad73ff;
+	height: 50px;
+}
+
+
+
+
+
